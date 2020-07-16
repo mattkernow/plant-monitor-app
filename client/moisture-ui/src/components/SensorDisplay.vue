@@ -1,6 +1,6 @@
 <template>
     <div class="sensorDisplay">
-        Hello World
+        <h1>Hello World</h1>
     </div>
 </template>
 
@@ -9,5 +9,3 @@ export default {
   name: 'SensorDisplay'
 }
 </script>
-
-<style scoped></style>
